@@ -1,0 +1,64 @@
+body{
+  margin:0px;
+}
+.sec1{
+  background-image: url('images/pi22.png');
+  width: 100%;
+  background-size:100%;
+  color:white;
+  height:550px;
+  position: relative;
+}
+.sec2{
+  background-image: url('images/pi23.png');
+  background-size: 100%;
+  height:500px;
+  color:white;
+  position: relative;
+}
+.sec3{
+  background-image: url('images/pi24.png');
+  background-size: 100%;
+  height:600px;
+  color:white;
+  position: relative;
+}
+.sec4{
+  background-image: url('images/pi25.png');
+  background-size: 100%;
+  height:600px;
+  position: relative;
+}
+.div1{
+  position:relative;
+  top:100px;
+  left:150px;
+  width:30%;
+  padding:10px;
+  float:left;
+}
+.div2{
+  position:relative;
+  top:100px;
+  left:150px;
+  width:30%;
+  padding:10px;
+  float:left;
+}
+.div3{
+  position:relative;
+  top:100px;
+  left:410px;
+  width:50%
+  padding:10px;
+  font-size:30px;
+  color:orange;
+}
+.subdiv{
+  width:20%;
+  float:left;
+  position:relative;
+  top:200px;
+  left:150px;
+  padding:10px;
+}
